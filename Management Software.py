@@ -84,7 +84,7 @@ def ResetFunc():
 window = Tk()
 window.geometry("1600x800+0+0")
 window.title("Management System Software")
-image_icon = PhotoImage(file = "C:\\Users\\neha\\Links\\Project mangmnt\\spdir.png")
+image_icon = PhotoImage(file = "spdir.png")
 window.iconphoto(True, image_icon)
 
 #-----------------------------Text Varaible------------------------------------------
